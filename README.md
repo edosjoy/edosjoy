@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eduard
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate as Junior Frontend Developer
+- 💞️ I’m looking to collaborate as Frontend Developer
 - 📫 How to reach me: telegram: @edosjoy, discord: edosjoy#1476
